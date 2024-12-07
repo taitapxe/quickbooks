@@ -145,6 +145,3 @@ Supports Windows 10+ and macOS X 10.12+ only.
 
 **What are common installation issues?**
 Ensure all pre-check steps are completed and retry installation if errors persist.
-
-[IMAGE-4: Error message example during installation]
-[ALT: Common error messages encountered during Cointracker setup]
