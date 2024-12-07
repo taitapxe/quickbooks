@@ -145,3 +145,10 @@ Supports Windows 10+ and macOS X 10.12+ only.
 
 **What are common installation issues?**
 Ensure all pre-check steps are completed and retry installation if errors persist.
+
+---
+
+## Read Also
+- [GnuCash Install: A Comprehensive Guide](https://github.com/taitapxe/gnucash/blob/main/README.md)
+- [How to Install QuickBooks Desktop Enterprise](https://github.com/taitapxe/quickbook/blob/main/README.md)
+- [Sierra Chart Software: A Comprehensive Installation Guide ](https://github.com/taitapxe/sierra_chart/blob/main/README.md)
