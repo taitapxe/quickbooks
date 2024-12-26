@@ -72,6 +72,8 @@
 1. Visit `https://cointracking.info` 
 2. Follow similar steps as above.
 
+*Personal Recommendation: For an easy way to simplify your accounting, take a look at the article [Download QuickBooks](https://sandpipercoveapts.com/free-quickbooks-simple-start-software-download/). It offers clear instructions on how to get started with the QuickBooks Simple Start software for free.*
+
 **Successful Installation Indicators:**
 
 - Launches without errors
